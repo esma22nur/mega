@@ -1,0 +1,30 @@
+.baslik{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.container{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin-bottom: 80px;
+    justify-content: center;
+    
+}
+body{
+    background-image:url("pexels-pixelcop-3970396.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.col-sm{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.footer{
+    text-align:end;
+    margin-right: 20px;
+}
